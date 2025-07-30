@@ -1,3 +1,9 @@
+# Ignoring flashcards created by model from my exercise project
+flashcards/
+
+# Ignoring .mp3 models' output
+*.mp3
+
 # Github's default gitignore for Python
 
 # Byte-compiled / optimized / DLL files
